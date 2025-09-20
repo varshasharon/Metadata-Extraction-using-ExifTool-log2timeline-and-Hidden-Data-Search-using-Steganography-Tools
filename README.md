@@ -1,4 +1,8 @@
 # Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
+```
+Name: E Varsha Sharon
+Reg no: 212222100058
+```
 ## AIM:
 To extract metadata, perform timeline analysis, and search for hidden data using forensic tools like ExifTool, log2timeline, and steganography detection tools.
 ## REQUIREMENTS
@@ -33,6 +37,12 @@ Apply steganography detection tools like steghide, zsteg, or binwalk to uncover 
 | 2    | Generate event timeline | log2timeline / plaso | CSV/HTML timeline                |
 | 3    | Search for hidden data  | steghide / binwalk   | Extracted hidden files           |
 | 4    | Document findings       | Manual report        | Investigation record             |
+
+<img width="959" height="900" alt="Screenshot 2025-09-20 195019" src="https://github.com/user-attachments/assets/189ee331-af73-451d-aa16-a98ac6d9baef" />
+
+<img width="1278" height="190" alt="image" src="https://github.com/user-attachments/assets/560e37ec-71ab-4162-8e3b-2fd83d292ad5" />
+<img width="1060" height="169" alt="image" src="https://github.com/user-attachments/assets/672a6487-7097-44d3-9eff-fc4a99d561d3" />
+<img width="1108" height="197" alt="image" src="https://github.com/user-attachments/assets/fc57399b-f304-4a4c-bbc1-a874893d7f85" />
 
 
 ## OUTPUT:
